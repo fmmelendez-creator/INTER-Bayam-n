@@ -1,0 +1,31 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_811B82D7_95DD_92C7_41DA_CD9E08E5EB4D.label = 1 Edificio Biblioteca 
+panorama_860BEF5F_95DD_93C7_41E2_254A39BDF696.label = 2 Entrada Principal 
+panorama_860D57F8_95DC_72C9_41E0_E9CF422BBCEB.label = 3 Circulación 
+panorama_8635A14E_95DC_6FC9_41B4_613B21D4E802.label = 4 Área de Estudio
+panorama_8635DA2B_95DC_9D4F_41E0_D36F7DECBD6E.label = 5 Salón Computadoras
+panorama_8635F2B4_95DC_AD59_41D2_0FBAE92697B2.label = 6 Sala Referencia y Reserva
+panorama_86342AE9_95DC_B2CB_41DD_55263A298AEC.label = 7 Sala Estudio y Circulación 
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Centro de Acceso a la Infomación 
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Universitaria, Bayamón
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = INTER Bayamón 
